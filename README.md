@@ -37,7 +37,8 @@ A more or less small overview can be found [here](https://github.com/localos/PoC
 tba.
 
 #### Components
-tba.
+* [Anteater](https://tranalyzer.com/) (Tranalyzer2)
+* ...
 
 ### Control Pane
 tba.
@@ -49,7 +50,8 @@ tba.
 tba.
 
 #### Components
-* NERD ... tba.
+* [NERD](https://github.com/localos/PoCyMa/blob/master/components/NERD)
+* ...
 
 ## License
 The content of this project itself is licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), and the underlying source code is licensed under [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
