@@ -38,19 +38,30 @@ tba.
 
 #### Components
 * [Anteater](https://tranalyzer.com/) (Tranalyzer2)
+* [Apache Solr](https://lucene.apache.org/solr/)
+* Some IDS ...doesn't matter which one (almost ^^)
+* OpenStreetView server
+* [IPTrollNG](https://github.com/localos/IPTrollNG)
+* Some relational database management system
+* Some parser, wrapper and nodejs stuff
+* Frontend
 * ...
 
 ### Control Pane
 tba.
 
 #### Components
-tba.
+* Controller
+* Config stuff
+* Admin frontend
+* ...
 
 ### Business Intelligence Plane
-tba.
+Takes information from the data plane and does some black magic ,)
 
 #### Components
 * [NERD](https://github.com/localos/PoCyMa/blob/master/components/NERD)
+* Some relational database management system
 * ...
 
 ## License
