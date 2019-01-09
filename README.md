@@ -47,7 +47,7 @@ tba.
 * Frontend
 * ...
 
-### Control Pane
+### Control Plane
 tba.
 
 #### Components
